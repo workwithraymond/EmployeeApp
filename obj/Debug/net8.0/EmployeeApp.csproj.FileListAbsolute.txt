@@ -1,0 +1,14 @@
+C:\development\CSharpProjects\EmployeeApp\bin\Debug\net8.0\EmployeeApp.exe
+C:\development\CSharpProjects\EmployeeApp\bin\Debug\net8.0\EmployeeApp.deps.json
+C:\development\CSharpProjects\EmployeeApp\bin\Debug\net8.0\EmployeeApp.runtimeconfig.json
+C:\development\CSharpProjects\EmployeeApp\bin\Debug\net8.0\EmployeeApp.dll
+C:\development\CSharpProjects\EmployeeApp\bin\Debug\net8.0\EmployeeApp.pdb
+C:\development\CSharpProjects\EmployeeApp\obj\Debug\net8.0\EmployeeApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\development\CSharpProjects\EmployeeApp\obj\Debug\net8.0\EmployeeApp.AssemblyInfoInputs.cache
+C:\development\CSharpProjects\EmployeeApp\obj\Debug\net8.0\EmployeeApp.AssemblyInfo.cs
+C:\development\CSharpProjects\EmployeeApp\obj\Debug\net8.0\EmployeeApp.csproj.CoreCompileInputs.cache
+C:\development\CSharpProjects\EmployeeApp\obj\Debug\net8.0\EmployeeApp.dll
+C:\development\CSharpProjects\EmployeeApp\obj\Debug\net8.0\refint\EmployeeApp.dll
+C:\development\CSharpProjects\EmployeeApp\obj\Debug\net8.0\EmployeeApp.pdb
+C:\development\CSharpProjects\EmployeeApp\obj\Debug\net8.0\EmployeeApp.genruntimeconfig.cache
+C:\development\CSharpProjects\EmployeeApp\obj\Debug\net8.0\ref\EmployeeApp.dll
